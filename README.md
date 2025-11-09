@@ -144,10 +144,10 @@ Additional advanced features include:
 
 ## 📧 Author 📇
 
-**Umme Aiman Lalkot**  
+**Himanshu Ranjan**  
 *Azure Data Engineer Intern | SQL | Azure | ADF | Python*  
-🔗 [Connect on LinkedIn](https://www.linkedin.com)  
-📨 [ummeaiman1506@gmail.com](mailto:ummeaiman1506@gmail.com)
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/himanshu-ranjan-88524b273/)  
+📨 [krithimanshu4321@gmail.com](mailto:krithimanshu4321@gmail.com)
 
 ---
 
@@ -158,7 +158,7 @@ This project is open-source and available under the MIT License.
 ---
 
 📬 **Contact**  
-For any queries, collaboration, or demo, reach out at: [ummeaiman1506@gmail.com](mailto:ummeaiman1506@gmail.com)
+For any queries, collaboration, or demo, reach out at: [krithimanshu4321@gmail.com](mailto:krithimanshu4321@gmail.com)
 
 “Empowering insights through seamless data automation and visualization.”
 
